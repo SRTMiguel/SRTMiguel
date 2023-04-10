@@ -17,7 +17,7 @@ I would like to learn programming to the point that it becomes my profession
 | cd/ | use to go to root a directory  |
 | ls | used to see directory list |
 
-** LINUX ALIAS COMMANDS **
+**LINUX ALIAS COMMANDS**
 
 | COMAND | DESCRIPTION |
 | ------ | ----- |
