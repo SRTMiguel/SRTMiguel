@@ -7,6 +7,19 @@ I have knowledge in HTML, CSS, and C, I am from Colombia
 
 I would like to learn programming to the point that it becomes my profession
 
-| COMANDO | DESCRIPCIÓN |
+**TERMINAL COMMANDS**
+
+| COMAND | DESCRIPTION |
 | ------ | ----- |
-|||
+|mkdir new_directory (mkdir nuevo_directorio)| use to create a new directory |
+|rmdir new_directory (rmdir nuevo_directorio)| use to remove a directory |
+| cd .. | use to return a directory |
+| cd/ | use to go to root a directory  |
+| ls | used to see directory list |
+
+** LINUX ALIAS COMMANDS **
+
+| COMAND | DESCRIPTION |
+| ------ | ----- |
+| Cat | used to see what is in a file |
+| mv picture.jpg renamefile.jpg | used to rename a archive |
