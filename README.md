@@ -11,10 +11,10 @@ I would like to learn programming to the point that it becomes my profession
 
 | COMAND | DESCRIPTION |
 | ------ | ----- |
-|mkdir new_directory (mkdir nuevo_directorio)| use to create a new directory |
-|rmdir new_directory (rmdir nuevo_directorio)| use to remove a directory |
+|mkdir new_directory (mkdir nuevo_directorio)|  create a new directory |
+|rmdir new_directory (rmdir nuevo_directorio)|  remove a directory |
 | cd .. | use to return a directory |
-| cd/ | use to go to root a directory  |
+| cd/ |  go to root a directory  |
 | ls | used to see directory list |
 
 **LINUX ALIAS COMMANDS**
